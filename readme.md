@@ -1,6 +1,6 @@
 Fron:
 - webpack
-- react, устанка  create-react-app
+- react, установка  create-react-app
 - react-router 
 - взаимодействие с backend сервером django через axios  
 Back:
@@ -31,5 +31,4 @@ http://127.0.0.1:8000/api/swagger-ui/ - swagger-ui
 http://127.0.0.1:8000/api/categories/ - список всех категорий  
 http://127.0.0.1:8000/api/dishes/?category=Салаты -  На примере запроса блюд из категории 'Салаты'  
 http://127.0.0.1:8000/api/recipe/ - список всех рецептов
-http://127.0.0.1:8000/api/recipe/id - id блюд  
- 
+http://127.0.0.1:8000/api/recipe/id - id блюд
