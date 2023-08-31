@@ -1,0 +1,86 @@
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+button, select {
+    border: none;
+    margin: 10px 10px;
+    padding: 10px 15px;
+    line-height: 28px;
+    border-radius: 9px;
+    font-size: 1.2em;
+    color: #fddec1;
+    background: rgb(74, 62, 66);
+    transition: 0.3s;
+  }
+
+
+
+
+div .button {
+    margin: 5px 5px;
+    font-size: 1.2em;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+
+}
+.active{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+.normal {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+
+}
+
+a {
+    font-size: 1.2em;
+    color: #fddec1;
+    text-decoration: none;
+}
+
+.s {
+    border: none;
+    margin: 10px 10px;
+    padding: 10px 15px;
+    line-height: 28px;
+    border-radius: 9px;
+    font-size: 1.2em;
+    color: #fddec1;
+    background: rgb(53, 44, 45);
+    transition: 0.3s;
+}
+
+.r {
+    border: none;
+    margin: 5px 10px;
+    padding: 5px 15px;
+    line-height: 28px;
+    border-radius: 9px;
+    font-size: 1.2em;
+    color: #fddec1;
+    background: rgb(74, 62, 66);
+    transition: 0.3s;
+}
+body {
+	background-image: url('../media/main.jpg');
+	background-position-x: left;
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+.recipe {
+    padding: 15px 45px;
+}
