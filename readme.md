@@ -10,11 +10,8 @@ Backend:
  
 
 Для работы приложения необходимы пакеты:  
-pip install djangorestframework  
-pip install django-cors-headers  
-pip install coreapi pyyaml  
-pip install django-rest-swagger 
-Requires взять из \backend\resources 
+
+Requirements взять из \backend\resources 
 
 
 В консоли переходим в директорию проекта и запускаем:  
