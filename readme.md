@@ -13,7 +13,8 @@ Backend:
 pip install djangorestframework  
 pip install django-cors-headers  
 pip install coreapi pyyaml  
-pip install django-rest-swagger  
+pip install django-rest-swagger 
+Requires взять из \backend\resources 
 
 
 В консоли переходим в директорию проекта и запускаем:  
